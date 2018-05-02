@@ -501,6 +501,7 @@ ERC stands for Ethereum Request for Comments
 * 26 April 2018
 ![MEW DNS hack](https://s3.eu-west-2.amazonaws.com/braga-blockchain/hack_3.png) 
 +++
+### Security Concerns
 
 * Recursive Calls: [Understanding the DAO](https://www.coindesk.com/understanding-dao-hack-journalists)
 * Technical Explanation: https://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
