@@ -1,4 +1,5 @@
-## Programming Smart Contracts with Solidity 
+## Blockchain Workshop
+### Bitcoin, Ethereum and Smart Contracts Programming
 
 ---
 
