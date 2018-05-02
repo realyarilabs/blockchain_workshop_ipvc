@@ -10,22 +10,18 @@ emanuel@yarilabs.com
 
 @yarilabs
 
-Twitter: @emota7 | GitHub: emanuel
-
 ---
 ## About the Talk 
 
 * Intro 
-* Blockchain Overview 
-* Bitcoin vs. Ethereum
+* Blockchain Definitions 
 * Ethereum Overview
 * Smart Contracts 
 * Solidity Programming Language
 * ERC20 tokens
 * Security Concerns
 * Questions 
-* Demos
-- [ ] Hands - on
+* Demos & Hands ON
 
 ---
 ### Intro / Get to know the audience !
@@ -33,12 +29,12 @@ Twitter: @emota7 | GitHub: emanuel
 
 ## Wallets setup for the hands on ?
 #### Telegram - http://t.me/bragablockchain
-* Setup instructions
- [setup_ethereum_mist.md · GitHub](https://gist.github.com/emanuel/6d5dc064b2f26e1b397191854ed04d89)
 
-* Ask the monitors for Help
-* www.ethereum.org
-* metamask.io
+* [How to setup Ethereum Wallet](https://gist.github.com/emanuel/6d5dc064b2f26e1b397191854ed04d89)
+* If help ask *Yari Labs* monitors 
+* [www.ethereum.org](www.ethereum.org)
+* [metamask.io](metamask.io)
+
 ---
 
 ## Blockchain Overview
@@ -52,9 +48,8 @@ Twitter: @emota7 | GitHub: emanuel
 
 ### Blockchain Overview
 * transactions are always cryptographically signed
-* transactions are bundled in blocks and chained together 
- <img src="https://s3.eu-west-2.amazonaws.com/braga-blockchain/blockchain.png" alt=“Blockchain” height="400">
-
+* bundled in blocks and chained together 
+ <img src="https://s3.eu-west-2.amazonaws.com/braga-blockchain/blockchain.png" alt=“Blockchain” height="350">
 
 ---
 
@@ -67,6 +62,10 @@ Twitter: @emota7 | GitHub: emanuel
 * Limited programmability 
 
 ---
+### Ethereum 
+Many times called "The World Computer"!
++++
+
 ### Ethereum 
 
    <div class="left">
@@ -87,6 +86,10 @@ Twitter: @emota7 | GitHub: emanuel
     </p>
   </div>
 
++++
+
+### Ethereum
+* 5 ethers are created with each new block (mined every 15-17 seconds)
 +++
 
 ### Ethereum
@@ -116,7 +119,7 @@ Twitter: @emota7 | GitHub: emanuel
 * Code execution costs GAS 
 * Transaction is a message sent from one account to another and can have a data
   payload
-  
+
 ---
 
 ## Smart Contracts 
@@ -472,7 +475,17 @@ ERC stands for Ethereum Request for Comments
      event Approval(address indexed tokenOwner, address indexed spender, uint tokens);
  }
 ```
+---
 
+## Security Concerns
++++
+
+* Recursive Calls: [Understanding the DAO](https://www.coindesk.com/understanding-dao-hack-journalists)
+* Technical Explanation: https://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
+* App security: [Parity Multisig Exploit](https://ethereum.stackexchange.com/questions/21618/what-is-the-exploit-behind-paritys-multisig-wallet-from-2017-07-19?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
+* DNS: [DNS Hijacking](https://peckshield.com/2018/04/26/mew-dns-hijacking)
+* OVERFLOW: [proxy overflow](https://peckshield.com/2018/04/25/proxyOverflow)
+* OVERFLOW: [batch overflow](https://peckshield.com/2018/04/22/batchOverflow)
 
 ---
 ## Questions ?
@@ -486,8 +499,17 @@ ERC stands for Ethereum Request for Comments
 * github: emanuel
 
 ---
+
+## Demos 
+
+### Xavier Francisco 
+xavier@yarilabs.com
+
+### Helder Pinto 
+helder@yarilabs.com
+
+---
 ## Hands ON 
 * Prepare your rinkeby testnet wallets!
-* Join BragaBlockchain telegram 
+* Telegram - http://t.me/bragablockchain
 
-#blockchain
