@@ -31,7 +31,7 @@ emanuel@yarilabs.com
 #### Telegram - http://t.me/bragablockchain
 
 * [How to setup Ethereum Wallet](https://gist.github.com/emanuel/6d5dc064b2f26e1b397191854ed04d89)
-* If help ask *Yari Labs* monitors 
+* If help is need ask *Yari Labs* monitors 
 * [www.ethereum.org](www.ethereum.org)
 * [metamask.io](metamask.io)
 
@@ -485,16 +485,21 @@ ERC stands for Ethereum Request for Comments
 * Direct Financial incentives for Attackers
 
 +++
-
-Saturday, 18th June, an attacker managed to drain more than 3.6m ether from The DAO. 
-The price of ether dropped from over $20 to under $13.
+### Security Concerns
+* 18th June 2016
 ![The DAO hack](https://s3.eu-west-2.amazonaws.com/braga-blockchain/hack_1.png) 
 
+* 19th July 2017
 ![Parity Wallet hack](https://s3.eu-west-2.amazonaws.com/braga-blockchain/hack_2.png) 
 
-![MEW DNS hack](https://s3.eu-west-2.amazonaws.com/braga-blockchain/hack_3.png) 
++++
+### Security Concerns
 
+* 24 April 2018
 ![BufferOverflow token hack](https://s3.eu-west-2.amazonaws.com/braga-blockchain/hack_4.png) 
+
+* 26 April 2018
+![MEW DNS hack](https://s3.eu-west-2.amazonaws.com/braga-blockchain/hack_3.png) 
 +++
 
 * Recursive Calls: [Understanding the DAO](https://www.coindesk.com/understanding-dao-hack-journalists)
