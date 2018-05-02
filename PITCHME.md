@@ -480,6 +480,23 @@ ERC stands for Ethereum Request for Comments
 ## Security Concerns
 +++
 
+* Smart Contracts are a new execution paradigm. Unstoppable applications. 'Code is law'
+* The entire stack was developed from scratch (VM, compilers, consensus layer, etc.)
+* Direct Financial incentives for Attackers
+
++++
+
+Saturday, 18th June, an attacker managed to drain more than 3.6m ether from The DAO. 
+The price of ether dropped from over $20 to under $13.
+![The DAO hack](https://s3.eu-west-2.amazonaws.com/braga-blockchain/hack_1.png) 
+
+![Parity Wallet hack](https://s3.eu-west-2.amazonaws.com/braga-blockchain/hack_2.png) 
+
+![MEW DNS hack](https://s3.eu-west-2.amazonaws.com/braga-blockchain/hack_3.png) 
+
+![BufferOverflow token hack](https://s3.eu-west-2.amazonaws.com/braga-blockchain/hack_4.png) 
++++
+
 * Recursive Calls: [Understanding the DAO](https://www.coindesk.com/understanding-dao-hack-journalists)
 * Technical Explanation: https://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/
 * App security: [Parity Multisig Exploit](https://ethereum.stackexchange.com/questions/21618/what-is-the-exploit-behind-paritys-multisig-wallet-from-2017-07-19?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa)
