@@ -1,0 +1,27 @@
+{
+  "name": "ui_lottery",
+  "version": "0.1.0",
+  "private": true,
+  "author": "Helder Pinto",
+  "dependencies": {
+    "howler": "^2.0.9",
+    "lodash": "^4.17.10",
+    "node-sass-chokidar": "^1.2.2",
+    "npm-run-all": "^4.1.2",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4",
+    "semantic-ui-react": "^0.79.1",
+    "web3": "^1.0.0-beta.34"
+  },
+  "scripts": {
+    "build-css": "node-sass-chokidar src/ -o src/",
+    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
+    "start-js": "react-scripts start",
+    "start": "npm-run-all -p watch-css start-js",
+    "build-js": "react-scripts build",
+    "build": "npm-run-all build-css build-js",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
