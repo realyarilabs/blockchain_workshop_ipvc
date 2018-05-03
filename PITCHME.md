@@ -126,6 +126,13 @@ Many times called "The World Computer"!
 
 +++
 
+### Smart Contracts
+
+> "A smart contract is a computer program that directly controls digital assets
+> and which is run in such an environment that it can be trusted to faithfully execute."
+<div style="text-align: right"> (Vitalik Buterin) </div>
++++
+
 ### Smart Contracts 
 
 Smart contract flow of data 
