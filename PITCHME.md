@@ -132,7 +132,7 @@ Smart contract flow of data
 ![smart_contract_flow](assets/sc_flow.png)
 +++
 
-![smart_contracts_applications](sttps://s3.eu-west-2.amazonaws.com/braga-blockchain/sc_application.png)
+![smart_contracts_applications](https://s3.eu-west-2.amazonaws.com/braga-blockchain/sc_application.png)
 +++
 
 ### Smart Contracts 
