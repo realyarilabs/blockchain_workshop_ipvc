@@ -389,8 +389,7 @@ now; // current time (approximately) - uses Unix time
 ### Some Usefull Links
 * Ethereum website https://www.ethereum.org/
 * Online compiler https://remix.ethereum.org/
-* Another online compiler https://etherchain.org/solc
-* Online tools https://testnet.etherscan.io 
+* Online tools https://rinkeby.etherscan.io 
 * https://etherscan.io (block explorer, tx submit)
 * EthFiddle https://ethfiddle.com/
 +++
