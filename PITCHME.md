@@ -132,6 +132,9 @@ Smart contract flow of data
 ![smart_contract_flow](assets/sc_flow.png)
 +++
 
+![smart_contracts_applications](sttps://s3.eu-west-2.amazonaws.com/braga-blockchain/sc_application.png)
++++
+
 ### Smart Contracts 
 * Contract = code (i.e. functions) + data (i.e. state) and resides on the blockchain 
 * EVM is the runtime for Smart Contracts on Ethereum
