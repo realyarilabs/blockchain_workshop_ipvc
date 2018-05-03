@@ -28,12 +28,12 @@ emanuel@yarilabs.com
 ---
 
 ## Wallets setup for the hands on ?
-#### Telegram - http://t.me/bragablockchain
+#### Telegram - https://t.me/bragablockchain
 
 * [How to setup Ethereum Wallet](https://gist.github.com/emanuel/6d5dc064b2f26e1b397191854ed04d89)
-* If help is need ask *Yari Labs* monitors 
+* If help is need ask *Yari Labs* coaches 
 * [www.ethereum.org](www.ethereum.org)
-* [metamask.io](metamask.io)
+* [metamask.io](https://metamask.io)
 
 ---
 
@@ -534,5 +534,5 @@ helder@yarilabs.com
 ---
 ## Hands ON 
 * Prepare your rinkeby testnet wallets!
-* Telegram - http://t.me/bragablockchain
+* Telegram - https://t.me/bragablockchain
 
